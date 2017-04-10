@@ -1,9 +1,11 @@
+### Read
+
+This is a fork/clone of "github-cards", originally created by lepture. Links to his profile & project are listed below.
+
+- [Profile](https://github.com/lepture/)
+- [Project](https://github.com/lepture/github-cards)
+
 # Unofficial GitHub Cards
-
-## Read
-
-Clone of "github-cards" by lepture. Full credits to him
-Originally created by ![Credits](https://github.com/lepture/github-cards)
 
 Card for your GitHub profile, card for your GitHub repositories.
 
