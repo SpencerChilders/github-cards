@@ -1,5 +1,10 @@
 # Unofficial GitHub Cards
 
+## Read
+
+Clone of "github-cards" by lepture. Full credits to him
+Originally created by ![Credits](https://github.com/lepture/github-cards)
+
 Card for your GitHub profile, card for your GitHub repositories.
 
 [![Donate lepture](https://img.shields.io/badge/donate-lepture-green.svg)](https://lepture.herokuapp.com/?amount=1000&reason=lepture%2Fgithub-cards)
